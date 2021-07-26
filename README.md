@@ -44,3 +44,6 @@ during different periods of the day showed that although volume was much lower, 
 users. Two additional visualizations that I would like to include to further analyse this position one to display where rides started for
 male and female riders, as well as a visualization to see where rides ended. This would give a better idea of the demographics of certain
 areas that were more heavily frequented.
+
+Linked as well is the storyboard created for the visualization done during this NYC Citibike analysis.
+[link to dashboard](https://public.tableau.com/app/profile/jimmy7388/viz/NYCCitibikeAnalysis_16272617207160/NYCCitibikeAnalysis?publish=yes)
