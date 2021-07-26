@@ -7,7 +7,7 @@ trip timing, volume, and frequencies from customers/subscribers based on gender.
 
 ![Gender Breakdown](https://github.com/swlim314/Bike_Sharing_Analysis_Week_14/blob/6f841a8fabe49b784b0537e17c7e91447fb2866c/Gender%20Breakdown.png)
 
-Based off the following images, the female userbase is 588,431, the male userbase is 1,530,272, and the unknown users is 225,521.
+Based off the above image, the female userbase is 588,431, the male userbase is 1,530,272, and the unknown users is 225,521.
 
 ![Checkout Times By User](https://github.com/swlim314/Bike_Sharing_Analysis_Week_14/blob/6f841a8fabe49b784b0537e17c7e91447fb2866c/Checkout%20Times%20By%20User.png)
 
